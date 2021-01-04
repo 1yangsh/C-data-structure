@@ -1,4 +1,4 @@
-## C_data_structure
+## C language & data structure
 - <h5 align="left"> linked list </h3>
 - <h5 align="left"> stack </h3>
 - <h5 align="left"> queue </h3>
